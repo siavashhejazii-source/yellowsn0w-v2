@@ -1,0 +1,7 @@
+Origin: YellowSn0w Legacy Repo
+Label: YellowSn0w Legacy Repo
+Suite: stable
+Codename: yellowsn0w
+Architectures: iphoneos-arm
+Components: main
+Description: Legacy repository containing YellowSn0w 0.9.6 for archival purposes.
